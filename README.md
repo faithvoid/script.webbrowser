@@ -1,4 +1,4 @@
-# script.webbrowser
+# WebBrowser
 Janky text-based web browser for XBMC4Xbox. This probably won't ever be very good.
 
 ## Working
