@@ -9,5 +9,7 @@ Janky text-based web browser for XBMC4Xbox. This probably won't ever be very goo
 ## Not Working
 - Pages with lots of content (will crash the Xbox)
 - Pagination
+- Forms (so no logging into anything)
+- Cookies (unlikely to ever happen)
 - Downloads
 - Most things, really.
