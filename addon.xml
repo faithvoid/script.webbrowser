@@ -1,0 +1,8 @@
+<addon id="plugin.video.webbrowser" name="WebBrowser" version="1.0.6" provider-name="faithvoid">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+</addon>
